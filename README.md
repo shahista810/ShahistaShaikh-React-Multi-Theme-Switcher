@@ -32,18 +32,30 @@ This is a responsive React application with 3 unique themes using Context API, T
 
 ---
 
-## 📂 Folder Structure
-
-src/
-├── components/ # Header, Dropdown
-├── context/ # ThemeContext
-├── pages/ # Home, About, Contact
-├── themes/ # CSS files for each theme
-├── App.tsx
-└── index.tsx
-
+📂 Folder Structure
 
 ---
+src/
+│
+├── components/
+│   ├── Header.tsx
+│   └── ThemeDropdown.tsx
+│
+├── context/
+│   └── ThemeContext.tsx
+│
+├── pages/
+│   ├── Home.tsx
+│   ├── About.tsx
+│   └── Contact.tsx
+│
+├── themes/
+│   ├── Theme1.module.css
+│   ├── Theme2.module.css
+│   └── Theme3.module.css
+│
+├── App.tsx
+└── index.tsx
 
 ## 🛠️ Setup Instructions
 
