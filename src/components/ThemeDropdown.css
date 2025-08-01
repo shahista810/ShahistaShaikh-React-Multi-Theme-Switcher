@@ -1,0 +1,14 @@
+.theme-select {
+  padding: 8px 14px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid var(--border-color, #ccc);
+  background-color: var(--dropdown-bg, #fff);
+  color: var(--dropdown-text, #000);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.theme-select:hover {
+  background-color: var(--dropdown-hover, #f0f0f0);
+}

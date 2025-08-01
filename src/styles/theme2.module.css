@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  transition: all 0.4s ease-in-out;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  font-family: serif;
+  height: 100vh;
+  transition: all 0.4s ease-in-out;
+}
+
+.main {
+  padding: 80px 1rem 1rem;
+  flex: 1;
+  background-color: #111;
+  color: white;
+  font-family: serif;
+  transition: all 0.4s ease-in-out;
+}
