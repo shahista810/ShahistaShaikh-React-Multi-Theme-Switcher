@@ -7,6 +7,11 @@ This is a responsive React application with 3 unique themes using Context API, T
 *Full stack React.js Developer*
 
 ---
+### ✅ Live Link
+
+- [Netlify]
+  https://shahista-multi-theme-app.netlify.app/
+  ---
 
 ## 🔧 Features
 
@@ -61,10 +66,8 @@ CSS Modules / Plain CSS used for styling
 Theme structure, spacing, font changes across each theme
 
 API used: https://fakestoreapi.com/products
----
 
-### ✅ Live Link
 
-- [Netlify](https://netlify.com/)
+
 
 
