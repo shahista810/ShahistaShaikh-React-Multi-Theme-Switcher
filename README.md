@@ -33,6 +33,7 @@ This is a responsive React application with 3 unique themes using Context API, T
 ---
 
 ## 📂 Folder Structure
+
 src/
 ├── components/ # Header, Dropdown
 ├── context/ # ThemeContext
